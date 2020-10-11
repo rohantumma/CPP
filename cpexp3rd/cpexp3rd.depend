@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1563865837 source:e:\rohan\cse 5\cp rpgram\cpexp3rd\main.cpp
+	<iostream>
+	<algorithm>
+
+1563866462 source:e:\rohan\cse 5\cp rpgram\cpexp3rd\src\array.cpp
+	"array.h"
+
+1563866343 e:\rohan\cse 5\cp rpgram\cpexp3rd\include\array.h
+	<iostream>
+	<iomanip>
+	<typeinfo>
+

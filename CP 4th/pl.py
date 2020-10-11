@@ -1,0 +1,1 @@
+typedString = raw_input()
